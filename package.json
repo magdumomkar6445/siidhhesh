@@ -1,0 +1,13 @@
+{
+  "name": "polarops",
+  "version": "1.0.0",
+  "private": true,
+  "description": "PolarOps — Integrated Polar Expedition Logistics and Asset Management System (prototype, demo data only)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=16"
+  }
+}
